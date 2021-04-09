@@ -6,6 +6,6 @@ For a more visually pleasant experience for browsing the portfolio, check out [m
 
 ## Contents
 
-- __Orange County Wildfire Wildland-Urban Risk Assessment__- a model for wildland-urban interfaces that gives local fire safety officials the knowledge necessary to update local fire code that could lower the risk of wildfire at these interfaces.
+- __[Orange County Wildfire Wildland-Urban Risk Assessment](https://github.com/krevee/GIS-Porfolio/blob/main/Orange%20County%20Wildfire%20Wildland-Urban%20Risk%20Assessment/Orange%20County%20Wildfire%20Wildland-Urban%20Risk%20Assessment.JPG)__- a model for wildland-urban interfaces that gives local fire safety officials the knowledge necessary to update local fire code that could lower the risk of wildfire at these interfaces.
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at contact@mapping.cool.
