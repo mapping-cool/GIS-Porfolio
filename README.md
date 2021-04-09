@@ -9,7 +9,8 @@ For a more visually pleasant experience for browsing the portfolio, check out [m
 - __[Wolverine Connectivity Corridor](https://github.com/krevee/GIS-Porfolio/blob/main/Wolverine%20Connectivity%20Corridor/Wolverine%20Connectivity%20Corridor.pdf)__- This map is a wildlife corridor linkage map for the Wolverine (Gulo Gulo) from its current territory in Washington, Oregon and Idaho to the Sierra Nevada Mountains. In the past the Wolverine was home range included much of the Sierra Nevada Mountains, and from 1922 until 2008 there had been no sightings of the Wolverine in the Sierras. But as of 2016 there has been at least one Wolverine sighted in the Lake Tahoe area. The purpose of this map is to help conservation efforts in the United States that aim to repopulate Wolerines in the Sierra Nevada Mountains.
 
   _Skills: Data Modeling, Data Analysis, Visualization, Data Processing_\
-  _Tools: ArcGIS Pro_
+  _Tools: ArcGIS Pro_\
+  _Languages: Python_\
   
 - __[UAS Orthomosaic Imagery Applications](https://github.com/krevee/GIS-Porfolio/blob/main/UAS%20Orthomosaic%20Imagery%20Applications/UAS%20Orthomosaic%20Imagery%20Applications%20Poster.pdf)__- This project aimed to measure the accuracy of orthomosaic imagery acquired from a UAS platform to aide in GIS field research applications. The quality of imagery was tested, and compared to other conventional imagery sources such as satellite and manned aerial platforms. The research was conducted at the Wrigley Marine Institute on Catalina Island by USC students in the GIST Masters Program.
 
