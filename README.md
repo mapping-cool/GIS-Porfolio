@@ -10,7 +10,7 @@ For a more visually pleasant experience for browsing the portfolio, check out [m
 
   _Skills: Data Modeling, Data Analysis, Visualization, Data Processing_\
   _Tools: ArcGIS Pro_\
-  _Languages: Python_\
+  _Languages: Python_
   
 - __[UAS Orthomosaic Imagery Applications](https://github.com/krevee/GIS-Porfolio/blob/main/UAS%20Orthomosaic%20Imagery%20Applications/UAS%20Orthomosaic%20Imagery%20Applications%20Poster.pdf)__- This project aimed to measure the accuracy of orthomosaic imagery acquired from a UAS platform to aide in GIS field research applications. The quality of imagery was tested, and compared to other conventional imagery sources such as satellite and manned aerial platforms. The research was conducted at the Wrigley Marine Institute on Catalina Island by USC students in the GIST Masters Program.
 
