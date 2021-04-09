@@ -7,7 +7,8 @@ For a more visually pleasant experience for browsing the portfolio, check out [m
 ## Contents
 
 - __[Web-Based Relational Spatiotemporal Geodatabase of Glaciers in California ](https://github.com/krevee/california_glaciers/blob/master/Thesis_VanSchoonhoven_Reformatted_2.pdf)__- The objective of this thesis project was to create a web-based relational geodatabase and web map to track spatiotemporal information of glaciers in California. This database integrates existing inventories, as well as aims to allow for the incorporation of new data collected with more advanced technology and improved resolutions.
- _Skills: Data Modeling, Data Analysis, Visualization, Data Processing, Database Design, Database Implementation, Database Management, Web Mapping_\
+
+  _Skills: Data Modeling, Data Analysis, Visualization, Data Processing, Database Design, Database Implementation, Database Management, Web Mapping_\
   _Tools: ArcGIS Pro, ArcGIS Online, pgAdmin, pgModeler, Excel, AWS_\
   _Languages: PostgreSQL_
 
