@@ -1,6 +1,6 @@
 # Geographic Information Systems (GIS) \ Geographic Information Science (GISc) Portfolio
 
-This repository serves as a knowledge base for my GIS research and projects for academic, self learning, and hobby purposes. The majority of the projects are done utilizing ArcGIS, Python, and PostgreSQL. Presented in the form of Maps, PDFs of reasearch, and Powepoint presentations. 
+This repository serves as a knowledge base for my GIS research and projects for academic, self learning, and hobby purposes. The majority of the projects are done utilizing ArcGIS, Python, and PostgreSQL. Presented in the form of Maps, PDFs of reasearch, and Powerpoint presentations. 
 
 For a more visually pleasant experience for browsing the portfolio, check out [mapping.cool](https://mapping.cool) or [https://chasevanschoonhoven.com](chasevanschoonhoven.com)
 
